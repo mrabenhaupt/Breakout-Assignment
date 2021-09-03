@@ -1,0 +1,6 @@
+All sounds taken from freesound.org and have CC0 license
+
+Sources:
+paddle bounce: https://freesound.org/people/tim.kahn/sounds/45595/
+wall bounce: https://freesound.org/people/-zin-/sounds/34842/
+brick hit: https://freesound.org/people/qubodup/sounds/71274/
